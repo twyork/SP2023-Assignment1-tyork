@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\SP2023-Assignment1-tyork.props" />
+</Project>
