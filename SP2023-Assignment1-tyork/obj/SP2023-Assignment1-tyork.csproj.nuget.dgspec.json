@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Trevor York\\source\\repos\\SP2023-Assignment1-tyork\\SP2023-Assignment1-tyork\\SP2023-Assignment1-tyork.csproj": {}
+    "C:\\Users\\trevoryork\\source\\repos\\SP2023-Assignment1-tyork\\SP2023-Assignment1-tyork\\SP2023-Assignment1-tyork.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Trevor York\\source\\repos\\SP2023-Assignment1-tyork\\SP2023-Assignment1-tyork\\SP2023-Assignment1-tyork.csproj": {
+    "C:\\Users\\trevoryork\\source\\repos\\SP2023-Assignment1-tyork\\SP2023-Assignment1-tyork\\SP2023-Assignment1-tyork.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Trevor York\\source\\repos\\SP2023-Assignment1-tyork\\SP2023-Assignment1-tyork\\SP2023-Assignment1-tyork.csproj",
+        "projectUniqueName": "C:\\Users\\trevoryork\\source\\repos\\SP2023-Assignment1-tyork\\SP2023-Assignment1-tyork\\SP2023-Assignment1-tyork.csproj",
         "projectName": "SP2023-Assignment1-tyork",
-        "projectPath": "C:\\Users\\Trevor York\\source\\repos\\SP2023-Assignment1-tyork\\SP2023-Assignment1-tyork\\SP2023-Assignment1-tyork.csproj",
-        "packagesPath": "C:\\Users\\Trevor York\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Trevor York\\source\\repos\\SP2023-Assignment1-tyork\\SP2023-Assignment1-tyork\\obj\\",
+        "projectPath": "C:\\Users\\trevoryork\\source\\repos\\SP2023-Assignment1-tyork\\SP2023-Assignment1-tyork\\SP2023-Assignment1-tyork.csproj",
+        "packagesPath": "C:\\Users\\trevoryork\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\trevoryork\\source\\repos\\SP2023-Assignment1-tyork\\SP2023-Assignment1-tyork\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Trevor York\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\trevoryork\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [

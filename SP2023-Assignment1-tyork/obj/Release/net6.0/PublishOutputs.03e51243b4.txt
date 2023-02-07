@@ -1,0 +1,7 @@
+C:\Users\trevoryork\source\repos\SP2023-Assignment1-tyork\SP2023-Assignment1-tyork\obj\Release\net6.0\PubTmp\Out\SP2023-Assignment1-tyork.exe
+C:\Users\trevoryork\source\repos\SP2023-Assignment1-tyork\SP2023-Assignment1-tyork\obj\Release\net6.0\PubTmp\Out\appsettings.Development.json
+C:\Users\trevoryork\source\repos\SP2023-Assignment1-tyork\SP2023-Assignment1-tyork\obj\Release\net6.0\PubTmp\Out\appsettings.json
+C:\Users\trevoryork\source\repos\SP2023-Assignment1-tyork\SP2023-Assignment1-tyork\obj\Release\net6.0\PubTmp\Out\SP2023-Assignment1-tyork.dll
+C:\Users\trevoryork\source\repos\SP2023-Assignment1-tyork\SP2023-Assignment1-tyork\obj\Release\net6.0\PubTmp\Out\SP2023-Assignment1-tyork.deps.json
+C:\Users\trevoryork\source\repos\SP2023-Assignment1-tyork\SP2023-Assignment1-tyork\obj\Release\net6.0\PubTmp\Out\SP2023-Assignment1-tyork.runtimeconfig.json
+C:\Users\trevoryork\source\repos\SP2023-Assignment1-tyork\SP2023-Assignment1-tyork\obj\Release\net6.0\PubTmp\Out\SP2023-Assignment1-tyork.pdb
